@@ -1,1 +1,3 @@
-# music
+# Music Repo
+
+## Check Issues
